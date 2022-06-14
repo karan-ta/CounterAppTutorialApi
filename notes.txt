@@ -1,0 +1,4 @@
+CREATE TABLE counterdata (
+	id serial PRIMARY KEY,
+	counterData integer NOT NULL
+	);
